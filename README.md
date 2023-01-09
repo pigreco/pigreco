@@ -19,7 +19,7 @@ I am the founder of [Pigrecoinfinito](https://pigrecoinfinito.com/) and [HfcQGIS
 
 You can check out my work through the links below.
 
-- [Pigrecoinfinito.com](https://pigrecoinfinito.com/): Regularly updated blog covering events and technical topics related to open-source geospatial technologies such as QGIS, Earth Engine, GDAL, Mapshaper and more.
+- [Pigrecoinfinito.com](https://pigrecoinfinito.com/): Regularly updated blog covering events and technical topics related to open-source geospatial technologies such as QGIS, GDAL, Mapshaper and more.
 - [Pigrecoinfinito YouTube Channel](https://www.youtube.com/c/@tot%C3%B2fiandaca): Tutorials, lectures, guided projects and more content in easy to understand videos.
 
 ## Popular Posts
