@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://stackexchange.com/users/8482031/pigreco"><img src="https://stackexchange.com/users/flair/8482031.png" width="208" height="58" alt="profile for pigreco on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for pigreco on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
 I am the founder of [Pigrecoinfinito](https://pigrecoinfinito.com/) and [HfcQGIS](https://hfcqgis.opendatasicilia.it/) and author of several open-source learning resources. The technologies I primarily work with are **QGIS**, **GDAL**, **SpatiaLite**, **PostgreSQL/PostGIS**. I am strong believer in open-source, open-data and open-learning materials.
 
 You can check out my work through the links below.
