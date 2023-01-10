@@ -28,6 +28,9 @@ You can check out my work through the links below.
 
 ### QGIS
 
+- [QGIS e le mappe di sfondo](https://pigrecoinfinito.com/2018/03/11/qgis-3-0-e-le-mappe-di-sfondo/)
+- [Estrarre curve di livello](https://pigrecoinfinito.com/2016/04/01/qgis-estrarre-curve-di-livello/)
+
 ### GDAL
 
 ### SpatiaLite
