@@ -28,14 +28,15 @@ You can check out my work through the links below.
 
 ### QGIS
 
+- [QGIS Portable](https://github.com/pigreco/QGIS_portable_3x#qgis-ltr)
 - [QGIS e le mappe di sfondo](https://pigrecoinfinito.com/2018/03/11/qgis-3-0-e-le-mappe-di-sfondo/)
 - [Estrarre curve di livello](https://pigrecoinfinito.com/2016/04/01/qgis-estrarre-curve-di-livello/)
+- [WMS Catasto](https://github.com/pigreco/workshop-estate-gis-2021)
 
-### GDAL
 
 ### SpatiaLite
 
-### PostgreSQL/PostGIS
+- 
 
 ## 24th QGIS Contributors Meeting in Firenze
 
