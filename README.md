@@ -34,6 +34,9 @@ You can check out my work through the links below.
 - [WMS Catasto](https://github.com/pigreco/workshop-estate-gis-2021)
 - [HfcQGIS](https://github.com/opendatasicilia/HfcQGIS-md)
 
+### Plugin
+
+- [CatastoIT_GML_Merger_Pro](https://plugins.qgis.org/plugins/CatastoIT_GML_Merger_Pro/)
 
 ### SpatiaLite
 
