@@ -37,6 +37,8 @@ You can check out my work through the links below.
 ### Plugin
 
 - [CatastoIT_GML_Merger_Pro](https://plugins.qgis.org/plugins/CatastoIT_GML_Merger_Pro/)
+- [Confini amministrativi ISTAT - API oonData](https://plugins.qgis.org/plugins/istat_boundaries_downloader/)
+- [Confini amministrativi ISTAT](https://plugins.qgis.org/plugins/istat_confini_plugin/)
 
 ### SpatiaLite
 
