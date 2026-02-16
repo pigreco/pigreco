@@ -39,6 +39,7 @@ You can check out my work through the links below.
 - [CatastoIT_GML_Merger_Pro](https://plugins.qgis.org/plugins/CatastoIT_GML_Merger_Pro/)
 - [Confini amministrativi ISTAT - API oonData](https://plugins.qgis.org/plugins/istat_boundaries_downloader/)
 - [Confini amministrativi ISTAT](https://plugins.qgis.org/plugins/istat_confini_plugin/)
+- [WFS Catasto Download Particelle BBox](https://plugins.qgis.org/plugins/wfs_catasto_download_particelle_bbox/)
 
 ### SpatiaLite
 
