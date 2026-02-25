@@ -45,10 +45,11 @@ You can check out my work through the links below.
 
 - 
 
-### Supporting Contributors
+### QGIS.org
 
 - https://www.qgis.org/community/contributors/supporting/#salvatore-fiandaca
-- 
+- https://planet.qgis.org/subscribers/hfcqgis/
+
 ## 24th QGIS Contributors Meeting in Firenze
 
 ![](https://pigrecoinfinito.files.wordpress.com/2022/08/foto-gruppo-2.png)
