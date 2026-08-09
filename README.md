@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <a href="https://stackexchange.com/users/8482031/pigreco"><img src="https://stackexchange.com/users/flair/8482031.png" width="208" height="58" alt="profile for pigreco on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for pigreco on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
-I am a **QGIS Certified Professional** passionate about open-source geospatial technologies. I am the founder of [Pigrecoinfinito](https://pigrecoinfinito.com/) and [HfcQGIS](https://hfcqgis.opendatasicilia.it/) and author of several open-source learning resources. The technologies I primarily work with are **QGIS**, **GDAL**, **SpatiaLite**, **PostgreSQL/PostGIS**. I am strong believer in open-source, open-data and open-learning materials.
+I am a [QGIS Certified Professional](https://certification.qgis.org/en/) passionate about open-source geospatial technologies. I am the founder of [Pigrecoinfinito](https://pigrecoinfinito.com/) and [HfcQGIS](https://hfcqgis.opendatasicilia.it/) and author of several open-source learning resources. The technologies I primarily work with are **QGIS**, **GDAL**, **SpatiaLite**, **PostgreSQL/PostGIS**, **Geoserver**. I am strong believer in open-source, open-data and open-learning materials.
 
 You can check out my work through the links below.
 
@@ -40,6 +40,11 @@ You can check out my work through the links below.
 - [Confini amministrativi ISTAT - API oonData](https://plugins.qgis.org/plugins/istat_boundaries_downloader/)
 - [Confini amministrativi ISTAT](https://plugins.qgis.org/plugins/istat_confini_plugin/)
 - [WFS Catasto Download Particelle BBox](https://plugins.qgis.org/plugins/wfs_catasto_download_particelle_bbox/)
+- [Alberi Monumentali](https://plugins.qgis.org/plugins/ami_masaf/)
+- [ANNCSU_loader](https://plugins.qgis.org/plugins/anncsu_loader/)
+- [CXF to Shape Vestito](https://plugins.qgis.org/plugins/cxf2shp_vestito/)
+- [INGV Seismic Explorer](https://plugins.qgis.org/plugins/ingv_seismic_explorer/)
+- 
 
 ### SpatiaLite
 
